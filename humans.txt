@@ -1,0 +1,14 @@
+/* TEAM */
+Name: Podcast641a
+Site: susan@podcast641a.com (but I don't email much)
+Twitter: @SusanPotter
+Twitter: @pj_brew
+Twitter: @Podcast641a
+
+/* THANKS */
+Name: GitHub of hosting us over SSL
+
+/* SITE */
+Last update: 2018/08/05
+Standards: HTML5, CSS3
+Software: emacs
