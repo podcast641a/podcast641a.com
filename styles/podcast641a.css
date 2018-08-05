@@ -24,7 +24,7 @@ a:visited {
     text-decoration: none;
 }
 
-header {
+header h1 {
     font: 84px 'Arial Narrow', sans-serif;
     font-weight: bold;
     color: #fefefe;
